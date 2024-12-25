@@ -58,7 +58,20 @@
             </ul>
         </li>
     </ol>
-    
+
+<h2>Output</h2>
+    <ol>
+        <li><strong>Julia Set</strong>
+            
+   ![ani](https://github.com/user-attachments/assets/7ed79bc3-7a6c-47f1-b4a2-a67f848b61d4) </li>
+       <li><strong>Newton Fractal</strong>
+       
+ ![newton](https://github.com/user-attachments/assets/74ec75ec-4751-456d-a2c9-52cfc7ef0636)</li>
+        <li><strong>Koch Curve</strong>
+        
+ ![delete](https://github.com/user-attachments/assets/f7b2e0e0-955b-431e-8d8b-7dac49b8cdb6)</li>
+
+ <ol>
 </body>
 </html>
 
